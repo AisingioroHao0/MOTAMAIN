@@ -1,0 +1,14 @@
+﻿  main.cpp
+E:\WorkSpace\MOTAMAIN\main.cpp(297,21): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(338,21): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(447,24): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(746,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(768,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(790,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(812,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(834,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(856,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(878,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(900,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\WorkSpace\MOTAMAIN\main.cpp(900,20): warning C4018: E:\WorkSpace\MOTAMAIN\main.cpp(252) : warning C4715: “Protagonist::interoperate”: 不是所有的控件路径都返回值
+  MOTAMAIN.vcxproj -> E:\WorkSpace\MOTAMAIN\Debug\MOTAMAIN.exe
